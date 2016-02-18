@@ -19,7 +19,7 @@ public class Main {
     }
 }
 
-class Pet {
+abstract class Pet {
     String name;
     String breed;
     double weight;
